@@ -1,0 +1,2 @@
+# Capstone-Project-1---Employee-Management-System
+Employee Management System is designed to manage &amp; evaluate employee records. The system allows users to Create, Read, Update, &amp; Delete (CRUD) employee data (personal information, job performance,&amp; attendance records). By integrating it, this program demonstrates a practical approach to basic HR analytics &amp; payroll logic using Python fundamentals. 
