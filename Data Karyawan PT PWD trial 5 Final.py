@@ -65,7 +65,7 @@ def show():
 
     ''')
 
-    code = input('Silahkan Pilih Sub Menu Report Data Siswa [1 - 3] : ')
+    code = input('Silahkan Pilih Sub Menu Report Data Pegawai [1 - 3] : ')
     if code == '1':
         allReport()
     elif code == '2':
@@ -168,7 +168,7 @@ def edit():
 
     ''')
 
-    code = input('Silahkan Pilih Sub Menu Mengubah Data Siswa [1 - 2] : ')
+    code = input('Silahkan Pilih Sub Menu Mengubah Data Pegawai [1 - 2] : ')
     if code == '1':
         editdata()
     elif code == '2':
