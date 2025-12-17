@@ -115,7 +115,7 @@ def adding():
     genderbaru = input('Masukkan Gender : ').capitalize()
     cabangbaru = input('Masukkan Cabang : ').capitalize()
     performancebaru = input('Masukkan Performance : ').capitalize()
-    absensibaru = input('Masukan Absensi Pegawai : ').capitalize()
+    absensibaru = int(input('Masukan Absensi Pegawai : '))
     jawaban = yakin('Menambah Data')
     if(jawaban==True):
         data.append({'NIP':nipbaru, 'Nama':namabaru, 'Gender':genderbaru, 'Cabang':cabangbaru, 'Performance':performancebaru, 'Absensi':absensibaru})
